@@ -1,0 +1,22 @@
+{
+  "name": "jmb",
+  "version": "0.0.1",
+  "description": "Yapımcı DcKırıgı",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "dependencies": {
+    "cmd": "^0.1.0",
+    "discord.js": "^11.4.2",
+    "ffmpeg": "0.0.4",
+    "ms": "^2.1.1",
+    "opusscript": "0.0.6",
+    "superagent": "^4.1.0",
+    "weather": "^0.1.0",
+    "weather-js": "^2.0.0",
+    "ytdl-core": "^0.28.3"
+  }
+}
