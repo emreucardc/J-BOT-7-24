@@ -1,1 +1,1 @@
-worker nodemon index
+worker nodemon
