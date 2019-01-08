@@ -2,7 +2,6 @@ const Discord = require("discord.js");
 
 module.exports.run = async (bot, message, args) => {
 
-    if(!message.member.hasPermission("MANAGE_MESSAGES")) return message.chanel.send("Bunu Yapabilmen İçin Daha Yetenekli Olman Gerek Adamım.");
     let serverembed = new Discord.RichEmbed()
     .setDescription("Server Hakkında")
     .setColor("#fff400")
